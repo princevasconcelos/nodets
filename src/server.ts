@@ -1,3 +1,3 @@
-const value = 5
+import app from './app'
 
-console.log(value)
+app.listen(3333)

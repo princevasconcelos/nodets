@@ -29,4 +29,5 @@ add this config on editor:
 yarn add prettier eslint-config-prettier  eslint-plugin-prettier
 
 yarn add express cors mongoose
+yarn add -D @types/express @types/cors @types/mongoose
 ```
