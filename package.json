@@ -8,6 +8,7 @@
     "build": ""
   },
   "devDependencies": {
+    "nodemon": "^1.18.10",
     "sucrase": "^3.10.0",
     "typescript": "^3.4.1"
   }
