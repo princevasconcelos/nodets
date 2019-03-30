@@ -25,4 +25,8 @@ add this config on editor:
     { "language": "typescript", "autoFix": true },
     { "language": "typescriptreact", "autoFix": true }
 ]
+
+yarn add prettier eslint-config-prettier  eslint-plugin-prettier
+
+yarn add express cors mongoose
 ```

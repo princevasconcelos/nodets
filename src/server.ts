@@ -1,3 +1,3 @@
-const value: number = 5;
+const value = 5
 
-console.log(value);
+console.log(value)
